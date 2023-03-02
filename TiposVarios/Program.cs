@@ -24,7 +24,11 @@ namespace TiposVarios
             Console.WriteLine(pi);
             Console.WriteLine(po);
 
+            bool tipos = true;
+            bool varios = false;
 
+            Console.WriteLine(tipos);
+            Console.WriteLine(varios);
         }
     }
 }
