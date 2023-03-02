@@ -18,6 +18,12 @@ namespace TiposVarios
             Console.WriteLine(char1);
             Console.WriteLine(char2);
 
+            double pi = 3.1415;
+            double po = 3.1416;
+
+            Console.WriteLine(pi);
+            Console.WriteLine(po);
+
 
         }
     }
