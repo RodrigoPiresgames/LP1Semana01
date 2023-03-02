@@ -12,6 +12,13 @@ namespace TiposVarios
             Console.WriteLine(a);
             Console.WriteLine(b);
 
+            string char1 = "\u00A9";
+            string char2 = "\u01A9";
+
+            Console.WriteLine(char1);
+            Console.WriteLine(char2);
+
+
         }
     }
 }
