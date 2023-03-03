@@ -14,11 +14,11 @@ namespace ArgInt2Hex
 
                 if(isInt == true)
                 {
-                    Console.WriteLine("{0} -> É inteiro, valor hexadecimal: {0:x}", args[i]);
+                    Console.WriteLine("{0} -> É inteiro, valor hexadecimal: {0:x}", intArg);
                 }
                 if(isInt == false)
                 {
-                    Console.WriteLine(@"{0} -> Não é inteiro", args[i]);
+                    Console.WriteLine(@"{0} -> Não é inteiro", intArg);
                 }
             }
         }
