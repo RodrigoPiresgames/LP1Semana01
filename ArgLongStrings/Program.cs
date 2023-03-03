@@ -6,7 +6,15 @@ namespace ArgLongStrings
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            foreach (string arg in args)
+            {
+                if (arg.Length > 4)
+                {
+                    string bigger = arg.ToUpper();
+                    Console.WriteLine(bigger);
+                }
+
+            }
         }
     }
 }
