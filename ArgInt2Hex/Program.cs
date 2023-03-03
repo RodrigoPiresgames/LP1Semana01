@@ -12,11 +12,11 @@ namespace ArgInt2Hex
                 int intArg;
                 bool isInt = int.TryParse(args[i], out intArg);
 
-                if(isInt == true)
+                if (isInt == true)
                 {
                     Console.WriteLine("{0} -> É inteiro, valor hexadecimal: {0:x}", intArg);
                 }
-                if(isInt == false)
+                else
                 {
                     Console.WriteLine(@"{0} -> Não é inteiro", intArg);
                 }
