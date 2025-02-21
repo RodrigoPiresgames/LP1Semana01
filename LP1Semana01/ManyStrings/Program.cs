@@ -11,6 +11,14 @@ namespace ManyStrings
 
             Console.WriteLine($"{s}");
             Console.WriteLine($"{d}");
+
+            string sd = s + d;
+            string s2 = s + 2;
+
+            Console.WriteLine($"{s} jhbcjhbjbh");
+            Console.WriteLine($"{sd}");
+            Console.WriteLine($"{s}");
+            Console.WriteLine($"{s2}");
         }
     }
 }
