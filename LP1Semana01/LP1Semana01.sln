@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariouTypes", "VariouTypes\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManyStrings", "ManyStrings\ManyStrings.csproj", "{DCB6825C-7B3E-40C6-A0CE-F7B641FFA780}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AskForInput", "AskForInput\AskForInput.csproj", "{73F7CF37-B0BE-47C0-805B-A573967D309A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Percentagem", "Percentagem\Percentagem.csproj", "{230DBE6C-7763-4701-8E33-11F75BE34288}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{DCB6825C-7B3E-40C6-A0CE-F7B641FFA780}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB6825C-7B3E-40C6-A0CE-F7B641FFA780}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB6825C-7B3E-40C6-A0CE-F7B641FFA780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F7CF37-B0BE-47C0-805B-A573967D309A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F7CF37-B0BE-47C0-805B-A573967D309A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F7CF37-B0BE-47C0-805B-A573967D309A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F7CF37-B0BE-47C0-805B-A573967D309A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230DBE6C-7763-4701-8E33-11F75BE34288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230DBE6C-7763-4701-8E33-11F75BE34288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230DBE6C-7763-4701-8E33-11F75BE34288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230DBE6C-7763-4701-8E33-11F75BE34288}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
