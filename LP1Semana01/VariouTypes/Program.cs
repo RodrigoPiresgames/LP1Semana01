@@ -13,7 +13,11 @@ namespace VariouTypes
             Console.WriteLine($"{int_1}");
             Console.WriteLine($"{int_2}");
 
-            
+            char crown = '\u2655';
+            char revolt = '\u262D';
+
+            Console.WriteLine($"{crown}");
+            Console.WriteLine($"{revolt}");
         }
     }
 }
