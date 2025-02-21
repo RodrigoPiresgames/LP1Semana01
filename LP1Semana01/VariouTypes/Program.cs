@@ -24,6 +24,14 @@ namespace VariouTypes
 
             Console.WriteLine($"{float_1}");
             Console.WriteLine($"{float_2}");
+
+            bool bool_1 = true;
+            bool bool_2 = false;
+
+            Console.WriteLine($"{bool_1}");
+            Console.WriteLine($"{bool_2}");
+
+            
         }
     }
 }
